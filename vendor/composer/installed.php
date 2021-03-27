@@ -7,7 +7,7 @@
     array (
       0 => '1.2.x-dev',
     ),
-    'reference' => '9e56f0c797b3f45a3a07a7e658ba7252e8c8926e',
+    'reference' => '438e52fedc3cfab8f4ba53c480270fa9fa522ccc',
     'name' => 'google/recaptcha',
   ),
   'versions' => 
@@ -74,7 +74,7 @@
       array (
         0 => '1.2.x-dev',
       ),
-      'reference' => '9e56f0c797b3f45a3a07a7e658ba7252e8c8926e',
+      'reference' => '438e52fedc3cfab8f4ba53c480270fa9fa522ccc',
     ),
     'guzzlehttp/guzzle' => 
     array (
