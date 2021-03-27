@@ -31,7 +31,7 @@ private static $installed = array (
     array (
       0 => '1.2.x-dev',
     ),
-    'reference' => '2c53b3b0de14786cc415e7e489b610353c0d09bd',
+    'reference' => '9e56f0c797b3f45a3a07a7e658ba7252e8c8926e',
     'name' => 'google/recaptcha',
   ),
   'versions' => 
@@ -98,7 +98,7 @@ private static $installed = array (
       array (
         0 => '1.2.x-dev',
       ),
-      'reference' => '2c53b3b0de14786cc415e7e489b610353c0d09bd',
+      'reference' => '9e56f0c797b3f45a3a07a7e658ba7252e8c8926e',
     ),
     'guzzlehttp/guzzle' => 
     array (
