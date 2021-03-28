@@ -27,7 +27,7 @@ $chname =$chpass = $pname = $pemail = $ADHDT = $gender = $Age = "";
   <h5 style="color:red;"> <em>Note: you can not change the child name later!</em></h5>
   <br>
         &emsp;&emsp;<label for="cname">Child Name<span class="error">*</span></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <input type="text" id="cname" name="chname" pattern="[A-Za-z]+" title="English lettres only, no punctuation, numbers or special characters"  placeholder="Please enter child name" minlength="3" maxlength="12"  value="<?php echo $chname;?>"  required >
+        <input type="text" id="cname" name="chname" pattern="[A-Za-z0-9]+" title="English lettres only, no punctuation, numbers or special characters"  placeholder="Please enter child name" minlength="3" maxlength="12"  value="<?php echo $chname;?>"  required >
         <span id="chname_err"></span>
         <br>
         <br>
